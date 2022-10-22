@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakerApp", "FakerApp.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakerLib", "..\FakerLib\FakerLib.csproj", "{90C98089-9FF2-4B8F-8747-C8D37860B297}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatGenerator", "..\AdditionalGenerators\StrGenerator\FloatGenerator.csproj", "{91F7EECB-1895-497C-84C9-7F6E975F00C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakerTests", "..\FakerTests\FakerTests.csproj", "{49EE19B5-345C-4653-B5F6-A8A7742D205A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +28,14 @@ Global
 		{90C98089-9FF2-4B8F-8747-C8D37860B297}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90C98089-9FF2-4B8F-8747-C8D37860B297}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90C98089-9FF2-4B8F-8747-C8D37860B297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91F7EECB-1895-497C-84C9-7F6E975F00C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91F7EECB-1895-497C-84C9-7F6E975F00C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91F7EECB-1895-497C-84C9-7F6E975F00C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91F7EECB-1895-497C-84C9-7F6E975F00C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EE19B5-345C-4653-B5F6-A8A7742D205A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EE19B5-345C-4653-B5F6-A8A7742D205A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EE19B5-345C-4653-B5F6-A8A7742D205A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EE19B5-345C-4653-B5F6-A8A7742D205A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

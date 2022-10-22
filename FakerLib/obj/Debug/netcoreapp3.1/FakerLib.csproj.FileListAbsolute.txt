@@ -1,0 +1,9 @@
+D:\универ\3 курс\5 сем\СПП\2\FakerLib\bin\Debug\netcoreapp3.1\FakerLib.deps.json
+D:\универ\3 курс\5 сем\СПП\2\FakerLib\bin\Debug\netcoreapp3.1\FakerLib.dll
+D:\универ\3 курс\5 сем\СПП\2\FakerLib\bin\Debug\netcoreapp3.1\FakerLib.pdb
+D:\универ\3 курс\5 сем\СПП\2\FakerLib\obj\Debug\netcoreapp3.1\FakerLib.csproj.AssemblyReference.cache
+D:\универ\3 курс\5 сем\СПП\2\FakerLib\obj\Debug\netcoreapp3.1\FakerLib.AssemblyInfoInputs.cache
+D:\универ\3 курс\5 сем\СПП\2\FakerLib\obj\Debug\netcoreapp3.1\FakerLib.AssemblyInfo.cs
+D:\универ\3 курс\5 сем\СПП\2\FakerLib\obj\Debug\netcoreapp3.1\FakerLib.csproj.CoreCompileInputs.cache
+D:\универ\3 курс\5 сем\СПП\2\FakerLib\obj\Debug\netcoreapp3.1\FakerLib.dll
+D:\универ\3 курс\5 сем\СПП\2\FakerLib\obj\Debug\netcoreapp3.1\FakerLib.pdb
