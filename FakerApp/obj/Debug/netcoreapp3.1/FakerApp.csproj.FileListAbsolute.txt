@@ -1,0 +1,13 @@
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\bin\Debug\netcoreapp3.1\FakerApp.exe
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\bin\Debug\netcoreapp3.1\FakerApp.deps.json
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\bin\Debug\netcoreapp3.1\FakerApp.runtimeconfig.json
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\bin\Debug\netcoreapp3.1\FakerApp.runtimeconfig.dev.json
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\bin\Debug\netcoreapp3.1\FakerApp.dll
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\bin\Debug\netcoreapp3.1\FakerApp.pdb
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\obj\Debug\netcoreapp3.1\FakerApp.csproj.AssemblyReference.cache
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\obj\Debug\netcoreapp3.1\FakerApp.AssemblyInfoInputs.cache
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\obj\Debug\netcoreapp3.1\FakerApp.AssemblyInfo.cs
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\obj\Debug\netcoreapp3.1\FakerApp.csproj.CoreCompileInputs.cache
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\obj\Debug\netcoreapp3.1\FakerApp.dll
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\obj\Debug\netcoreapp3.1\FakerApp.pdb
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\obj\Debug\netcoreapp3.1\FakerApp.genruntimeconfig.cache

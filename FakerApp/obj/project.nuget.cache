@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9I3QtIrQWfFtpdNKdOULeAZjA3zOQsnOTW4UrH5ll2uOIIn0/d7D3ZBDssbDE9nf59rBpt0kvXoEK6SDdxiHPA==",
+  "success": true,
+  "projectFilePath": "D:\\универ\\3 курс\\5 сем\\СПП\\2\\FakerApp\\FakerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
