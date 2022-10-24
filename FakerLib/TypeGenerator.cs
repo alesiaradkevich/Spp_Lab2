@@ -4,6 +4,7 @@ using System.Text;
 using System.IO;
 using System.Runtime.Loader;
 using System.Reflection;
+using FakerLib.Generators;
 
 namespace FakerLib
 {
@@ -28,6 +29,9 @@ namespace FakerLib
 
             IGenerator intGenerator = new IntGenerator();
             Generators.Add(intGenerator.GetGenerationType(), intGenerator);
+
+            IGenerator charGenerator = new CharGenerator();
+            Generators.Add(charGenerator.GetGenerationType(), charGenerator);
         }
 
         private void LoadAdditionalGenerators()

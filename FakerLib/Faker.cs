@@ -40,7 +40,7 @@ namespace FakerLib
         {
             try
             {
-                var constructor = type.GetConstructors()[1];
+                var constructor = type.GetConstructors()[0];
                 var constrParams = constructor.GetParameters();
                 var createdConstParams = new List<object>();
                 if (constrParams.Length>0)
