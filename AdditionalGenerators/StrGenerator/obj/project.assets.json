@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\универ\\3 курс\\5 сем\\СПП\\2\\AdditionalGenerators\\StrGenerator\\FloatGenerator.csproj",
-      "projectName": "FloatGenerator",
-      "projectPath": "D:\\универ\\3 курс\\5 сем\\СПП\\2\\AdditionalGenerators\\StrGenerator\\FloatGenerator.csproj",
+      "projectUniqueName": "D:\\универ\\3 курс\\5 сем\\СПП\\2\\AdditionalGenerators\\StrGenerator\\AdditionalGenerators.csproj",
+      "projectName": "AdditionalGenerators",
+      "projectPath": "D:\\универ\\3 курс\\5 сем\\СПП\\2\\AdditionalGenerators\\StrGenerator\\AdditionalGenerators.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "D:\\универ\\3 курс\\5 сем\\СПП\\2\\AdditionalGenerators\\StrGenerator\\obj\\",
       "projectStyle": "PackageReference",

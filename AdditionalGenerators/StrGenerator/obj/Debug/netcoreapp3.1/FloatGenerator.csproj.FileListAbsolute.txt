@@ -1,0 +1,12 @@
+D:\универ\3 курс\5 сем\СПП\2\AdditionalGenerators\StrGenerator\bin\Debug\netcoreapp3.1\FloatGenerator.deps.json
+D:\универ\3 курс\5 сем\СПП\2\AdditionalGenerators\StrGenerator\bin\Debug\netcoreapp3.1\FloatGenerator.dll
+D:\универ\3 курс\5 сем\СПП\2\AdditionalGenerators\StrGenerator\bin\Debug\netcoreapp3.1\FloatGenerator.pdb
+D:\универ\3 курс\5 сем\СПП\2\AdditionalGenerators\StrGenerator\bin\Debug\netcoreapp3.1\FakerLib.dll
+D:\универ\3 курс\5 сем\СПП\2\AdditionalGenerators\StrGenerator\bin\Debug\netcoreapp3.1\FakerLib.pdb
+D:\универ\3 курс\5 сем\СПП\2\AdditionalGenerators\StrGenerator\obj\Debug\netcoreapp3.1\FloatGenerator.csproj.AssemblyReference.cache
+D:\универ\3 курс\5 сем\СПП\2\AdditionalGenerators\StrGenerator\obj\Debug\netcoreapp3.1\FloatGenerator.AssemblyInfoInputs.cache
+D:\универ\3 курс\5 сем\СПП\2\AdditionalGenerators\StrGenerator\obj\Debug\netcoreapp3.1\FloatGenerator.AssemblyInfo.cs
+D:\универ\3 курс\5 сем\СПП\2\AdditionalGenerators\StrGenerator\obj\Debug\netcoreapp3.1\FloatGenerator.csproj.CoreCompileInputs.cache
+D:\универ\3 курс\5 сем\СПП\2\AdditionalGenerators\StrGenerator\obj\Debug\netcoreapp3.1\FloatGenerator.csproj.CopyComplete
+D:\универ\3 курс\5 сем\СПП\2\AdditionalGenerators\StrGenerator\obj\Debug\netcoreapp3.1\FloatGenerator.dll
+D:\универ\3 курс\5 сем\СПП\2\AdditionalGenerators\StrGenerator\obj\Debug\netcoreapp3.1\FloatGenerator.pdb

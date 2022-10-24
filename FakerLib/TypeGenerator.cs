@@ -32,7 +32,7 @@ namespace FakerLib
 
         private void LoadAdditionalGenerators()
         {
-            string additionalGeneratorsDirectory = Path.Combine(Directory.GetCurrentDirectory(), "..\\..\\..\\AdditionalGenerators\\");
+            string additionalGeneratorsDirectory = Path.Combine(Directory.GetCurrentDirectory(), "..\\..\\..\\..\\Plugins\\");
             foreach (var dll in Directory.GetFiles(additionalGeneratorsDirectory, "*.dll"))
             {
                 Assembly assembly = Assembly.LoadFrom(dll);

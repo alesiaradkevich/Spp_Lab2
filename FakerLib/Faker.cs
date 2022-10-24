@@ -6,7 +6,7 @@ namespace FakerLib
     public class Faker
     {
         private TypeGenerator TypeGenerator = new TypeGenerator();
-
+        private List<Type> InnerTypes = new List<Type>();
         public T Create<T>()
         {
             T obj = (T)GenerateDPO(typeof(T));
@@ -21,9 +21,18 @@ namespace FakerLib
             }
             else
             {
-                var obj = GenerateWithConstructor(type);
-                FillDTO(obj);
-                return obj;
+                if (InnerTypes.Contains(type))
+                {
+                    return null;
+                }
+                else
+                {
+                    InnerTypes.Add(type);
+                    var obj = GenerateWithConstructor(type);
+                    FillDTO(obj);
+                    InnerTypes.Remove(type);
+                    return obj;
+                }
             }
         }
 
@@ -31,23 +40,23 @@ namespace FakerLib
         {
             try
             {
-                var constructor = type.GetConstructors()[0];
-                var constructorParams = constructor.GetParameters();
-                List<object> createdParams = new List<object>();
-                if (createdParams.Count > 0)
+                var constructor = type.GetConstructors()[1];
+                var constrParams = constructor.GetParameters();
+                var createdConstParams = new List<object>();
+                if (constrParams.Length>0)
                 {
-                    foreach (var param in constructorParams)
+                    foreach (var constrParam in constrParams)
                     {
-                        createdParams.Add(GenerateDPO(param.ParameterType));
+                        createdConstParams.Add(GenerateDPO(constrParam.ParameterType));
                     }
                 }
-                return constructor.Invoke(createdParams.ToArray());
+                return constructor.Invoke(createdConstParams.ToArray());
             }
             catch
             {
                 try
                 {
-                    return Activator.CreateInstance(type);                    
+                    return Activator.CreateInstance(type);
                 }
                 catch
                 {

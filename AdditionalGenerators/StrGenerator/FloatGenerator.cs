@@ -1,6 +1,6 @@
 ﻿using System;
 using FakerLib;
-namespace StrGenerator
+namespace AdditionalGenerators
 {
     public class FloatGenerator : IGenerator
     {
@@ -11,6 +11,7 @@ namespace StrGenerator
             while (number == 0)
             {
                 number = (float)random.NextDouble();
+                
             }
             return number;
         }

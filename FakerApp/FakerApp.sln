@@ -3,16 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakerApp", "FakerApp.csproj", "{239976B4-5411-4488-8542-398A9CEC7B8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakerApp", "FakerApp.csproj", "{239976B4-5411-4488-8542-398A9CEC7B8A}"
 	ProjectSection(ProjectDependencies) = postProject
 		{90C98089-9FF2-4B8F-8747-C8D37860B297} = {90C98089-9FF2-4B8F-8747-C8D37860B297}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakerLib", "..\FakerLib\FakerLib.csproj", "{90C98089-9FF2-4B8F-8747-C8D37860B297}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakerLib", "..\FakerLib\FakerLib.csproj", "{90C98089-9FF2-4B8F-8747-C8D37860B297}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatGenerator", "..\AdditionalGenerators\StrGenerator\FloatGenerator.csproj", "{91F7EECB-1895-497C-84C9-7F6E975F00C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdditionalGenerators", "..\AdditionalGenerators\StrGenerator\AdditionalGenerators.csproj", "{91F7EECB-1895-497C-84C9-7F6E975F00C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FakerTests", "..\FakerTests\FakerTests.csproj", "{49EE19B5-345C-4653-B5F6-A8A7742D205A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FakerTests", "..\FakerTests\FakerTests.csproj", "{49EE19B5-345C-4653-B5F6-A8A7742D205A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

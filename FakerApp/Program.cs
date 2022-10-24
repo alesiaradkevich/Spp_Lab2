@@ -7,6 +7,10 @@ namespace FakerApp
     {
         static void Main(string[] args)
         {
+            Faker faker = new Faker();
+            string str = faker.Create<string>();
+            Console.WriteLine(str);
+            Console.ReadLine();
         }
     }
 }

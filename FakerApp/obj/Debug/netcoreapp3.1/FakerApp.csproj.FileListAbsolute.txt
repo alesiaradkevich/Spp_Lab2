@@ -11,3 +11,6 @@ D:\универ\3 курс\5 сем\СПП\2\FakerApp\obj\Debug\netcoreapp3.1\Fa
 D:\универ\3 курс\5 сем\СПП\2\FakerApp\obj\Debug\netcoreapp3.1\FakerApp.dll
 D:\универ\3 курс\5 сем\СПП\2\FakerApp\obj\Debug\netcoreapp3.1\FakerApp.pdb
 D:\универ\3 курс\5 сем\СПП\2\FakerApp\obj\Debug\netcoreapp3.1\FakerApp.genruntimeconfig.cache
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\bin\Debug\netcoreapp3.1\FakerLib.dll
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\bin\Debug\netcoreapp3.1\FakerLib.pdb
+D:\универ\3 курс\5 сем\СПП\2\FakerApp\obj\Debug\netcoreapp3.1\FakerApp.csproj.CopyComplete
